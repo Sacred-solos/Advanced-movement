@@ -1,0 +1,3 @@
+In the Unity editor, create two input axes called "Horizontal" and "Jump" (Edit -> Project Settings -> Input). Set up appropriate key bindings for these axes.
+ Create a ground object and tag it as "Ground" in the Unity editor.
+ Create a wall object and tag it as "Wall" in the Unity editor.
